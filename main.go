@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	datastructures.MainBinaryTree()
+	datastructures.MainGraph()
 }
