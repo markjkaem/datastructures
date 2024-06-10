@@ -17,4 +17,4 @@ tries:
 find words quickly from first letter to last letter
 
 graph:
-quickly find distances between cities in a map
+quickly find distances between cities in a map.
