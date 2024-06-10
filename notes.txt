@@ -1,0 +1,17 @@
+binary-tree:
+find numbers quickly by higher or lower then parent
+
+hash-tables:
+find items quickly by key value pairs based on hash buckets by category
+
+linked-list:
+find items quickly based on nodes that points to the next node
+
+queue:
+first in is first out
+
+stack:
+first in is last out
+
+tries:
+find words quickly from first letter to last letter
