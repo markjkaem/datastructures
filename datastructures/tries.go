@@ -1,0 +1,5 @@
+package datastructures
+
+func MainTries() {
+
+}
